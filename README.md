@@ -108,3 +108,44 @@ These results demonstrate the usefulness of GIS in **urban planning and emergenc
 ---
 
 # Repository Structure
+
+QGIS-Project
+│
+├── screenshots
+│   ├── study_area.png
+│   ├── hillshade.png
+│   ├── slope.png
+│   ├── shortest_path.png
+│   └── service_area.png
+│
+├── report
+│   └── Remote_Sensing_GIS_Project_Report.pdf
+│
+├── project
+│   └── qgis_project.qgz
+│
+└── README.md
+
+
+---
+
+# Author
+
+**Anushka Gupta**
+
+B.Tech – Computer Science & Artificial Intelligence  
+Babu Banarasi Das University  
+
+Technical Intern – India Space Lab  
+Chairperson – IEEE Student Branch  
+
+GitHub  
+https://github.com/anushkagupta47
+
+---
+
+# License
+
+This project is created for **academic and educational purposes** as part of a Remote Sensing and GIS internship project.
+
+# Repository Structure
