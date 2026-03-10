@@ -12,6 +12,17 @@ path between locations and evaluate the service coverage area of police stations
 The results highlight how GIS techniques can support terrain modeling, spatial 
 analysis, and accessibility assessment for urban planning and emergency services.
 
+---
+
+## Skills Demonstrated
+
+- Geographic Information Systems (GIS)
+- Terrain Analysis using DEM
+- Raster and Vector Data Processing
+- Spatial Data Visualization
+- Network Analysis
+- OpenStreetMap Data Integration
+- QGIS Spatial Analysis Tools
 
 ---
 
