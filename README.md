@@ -1,7 +1,17 @@
 # Remote Sensing and GIS Terrain & Network Analysis using QGIS
 
-This repository contains the implementation of a **Remote Sensing and GIS internship project** performed using **QGIS**.  
-The project focuses on **terrain analysis using DEM data** and **network analysis for evaluating police station accessibility** using OpenStreetMap datasets.
+This project demonstrates terrain analysis and road network analysis using QGIS. 
+SRTM Digital Elevation Model (DEM) data was used to generate terrain derivatives 
+such as hillshade, slope, aspect, and contour maps to understand elevation and 
+surface characteristics of the study area. OpenStreetMap datasets including roads, 
+buildings, police stations, and points of interest were integrated to perform 
+spatial and network analysis.
+
+The project further applies QGIS network analysis tools to determine the shortest 
+path between locations and evaluate the service coverage area of police stations. 
+The results highlight how GIS techniques can support terrain modeling, spatial 
+analysis, and accessibility assessment for urban planning and emergency services.
+
 
 ---
 
