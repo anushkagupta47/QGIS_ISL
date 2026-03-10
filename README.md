@@ -107,6 +107,31 @@ These results demonstrate the usefulness of GIS in **urban planning and emergenc
 
 ---
 
+## Project Outputs
+
+### Study Area
+![Study Area](study_area.png)
+
+### Hillshade Map
+![Hillshade Map](hillshade.png)
+
+### Slope Map
+![Slope Map](slope.png)
+
+### Aspect Map
+![Aspect Map](aspect.png)
+
+### Contour Lines
+![Contour Lines](contours.png)
+
+### Shortest Path Analysis
+![Shortest Path Analysis](shortest_path.png)
+
+### Police Station Service Area
+![Police Service Area](service_area.png)
+
+---
+
 # Repository Structure
 
 QGIS-Project
