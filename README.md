@@ -1,4 +1,4 @@
-# QGIS Terrain and Network Analysis Project
+# Remote Sensing and GIS Terrain & Network Analysis using QGIS
 
 This repository contains the implementation of a **Remote Sensing and GIS internship project** performed using **QGIS**.  
 The project focuses on **terrain analysis using DEM data** and **network analysis for evaluating police station accessibility** using OpenStreetMap datasets.
