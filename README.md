@@ -109,26 +109,23 @@ These results demonstrate the usefulness of GIS in **urban planning and emergenc
 
 ## Project Outputs
 
-### Study Area
-![Study Area](study area.png)
+### Slope Map
+![Slope Map](SRTM .png)
 
 ### Hillshade Map
-![Hillshade Map](hillshade.png)
-
-### Slope Map
-![Slope Map](slope.png)
+![Hillshade](hillshade.png)
 
 ### Aspect Map
-![Aspect Map](aspect.png)
+![Aspect Map](Aspect .png)
 
 ### Contour Lines
-![Contours](contours.png)
+![Contours](Contours.png)
 
 ### Shortest Path Analysis
-![Shortest Path](shortest path.png)
+![Shortest Path](Shortest path.png)
 
 ### Police Service Area
-![Service Area](service area.png)
+![Service Area](Service Area .png)
 
 ---
 
